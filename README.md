@@ -1,7 +1,12 @@
 # Bloomberg Industry Group Investigations - Film Tax Incentives Data
 
 ## Terms of Use
-*Terms of use will be added when available.*
+By downloading this Dataset, you agree that you will attribute the Dataset and any use of the Dataset to Bloomberg Industry Group and/or Bloomberg Tax. You may use the Dataset for personal or internal business purposes, and may make limited use of the Dataset in connection with the provision of other services to clients; provided that you may not monetize the Dataset or otherwise make commercial use of the Dataset where the Dataset constitutes all, or substantially all, of the commercial offering. The Dataset is provided "as-is" and without any express or implied warranties.
+
+### Attribution
+The provided data in the folder titled ["raw"](data/raw/) should be cited as "[Source Agency's Name] obtained by Bloomberg Tax." If the data is used in an online story, the source line should include a link to this repository.
+
+The structured data we compiled and that is found in the folder titled ["created"](data/created/) should be cited using the appropriate description preceded by “Bloomberg Tax analysis of.” For example, "Bloomberg Tax analysis of [Source Agency's Name] records."
 
 ## Introduction
 
